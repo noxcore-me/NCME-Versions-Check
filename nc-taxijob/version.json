@@ -1,5 +1,5 @@
 {
-    "version": "3.2.0",
-    "changelog": "Phone support: lb-phone, okokPhone, 17mov_Phone, high-phone, qs-smartphone, yseries, sky_phone | Passenger payment receipts | Pay button dropdown menu | UI Edit button | NPC mission fare synced to server meter | P2P estimated fare | P2P passenger GPS | sky_phone duplicate fix | DP decline button | Zone info sync | Reserve system removed",
+    "version": "3.5.0",
+    "changelog": "Complete project structure overhaul.",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
