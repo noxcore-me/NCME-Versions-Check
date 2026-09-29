@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "changelog": "Banking system - NPC dialog + macOS dashboard",
+    "version": "1.0.01",
+    "changelog": "Full locale support (en/de/es/fr/pt) - Lua notifications, NPC dialog, dashboard UI, phone app",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
