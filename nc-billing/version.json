@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "changelog": "Portable POS terminal — instant payments, invoices, receipts",
+    "version": "1.0.01",
+    "changelog": "5-language locale support (en/de/es/fr/pt) + UI scale setting (75-200%)",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
