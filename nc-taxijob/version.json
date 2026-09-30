@@ -1,5 +1,5 @@
 {
-    "version": "3.5.0",
-    "changelog": "Complete project structure overhaul.",
+    "version": "3.5.1",
+    "changelog": "Phone map realigned to the corrected nc-minimap tile grid (zoom 0-5)",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
