@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "changelog": "3D ATM with camera and card/cash prop animations",
+    "version": "1.0.01",
+    "changelog": "Free camera presets (/atmcam), multi-unit ATM props with per-unit camera/slots/stand, unit-aware slot editors (ox_lib TextUI, Shift speed, F aim-grab), default-PIN change block",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }

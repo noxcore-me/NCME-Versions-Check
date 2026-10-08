@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "changelog": "2D ATM with card/cash prop animations",
+    "version": "1.0.01",
+    "changelog": "Fix: block default PIN as new PIN (forced PIN-change loop in banking mode)",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }

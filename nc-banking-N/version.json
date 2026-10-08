@@ -1,5 +1,5 @@
 {
-    "version": "1.0.01",
-    "changelog": "Full locale support (en/de/es/fr/pt) - Lua notifications, NPC dialog, dashboard UI, phone app",
+    "version": "1.0.02",
+    "changelog": "Fix: reject default PIN as new PIN in changePin/changeAccountPin (ATM forced PIN-change loop)",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
