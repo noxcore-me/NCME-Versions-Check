@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "changelog": "Official release — fresh install recommended (config structure changed; re-do your customize/ files). Map dashboard redesign, dispatcher manifest/settlement paperwork for trailer jobs, trucker weight physics and road-distance pay, boxpile pallet/construction categories, car carrier damage & insurance.",
+    "version": "1.0.01",
+    "changelog": "* Job vehicles (rental trucks, forklifts, carrier cargo cars) now get keys through nc-vehiclekeys - installs running the new nc-vehiclekeys no longer leave drivers locked out\n* Temporary keys are removed automatically when the job vehicle is deleted, the player leaves, or the script stops\n* Car carrier: customer car keys are handed over when you sign the manifest at the dispatcher\n* Car carrier: single-car flatbed jobs now require driving the garage flatbed - the mission no longer spawns one, and after delivery you check out at the dispatcher to get your receipt and payout\n* Fixed: deliveries could not be paid out without actually delivering the vehicles\n* Fixed: a player connecting near a job site could delete other players' job vehicles and props (including the flatbed bed)\n* Fixed moto delivery: the handover could get stuck and the mail envelope was invisible in your hand\n* Much lower CPU usage - idle and during delivery jobs\n* Removed the route panel (K key) - job progress now lives in the on-screen task HUD and F7 dashboard",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
