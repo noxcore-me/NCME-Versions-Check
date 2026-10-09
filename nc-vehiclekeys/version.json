@@ -1,5 +1,5 @@
 {
-    "version": "1.0.23",
-    "changelog": "Vehicle key system",
+    "version": "1.0.24",
+    "changelog": "Bugfix & compatibility release. Fixed 8 critical issues incl. all QBox callbacks failing and plate-with-spaces mismatches. Legacy '4321' keys recover automatically for owners. New qb/qbx compatible exports (HasKeys/GiveKeys/RemoveKeys/SetLockState) - point callers at nc-vehiclekeys, see docs Installation step 5/5b. Seat-based entry works again (was broken since v1.0.1). Garage pull-outs no longer stack temp keys: client SetOwner events are now no-ops, use the GiveTempKey server export for job/rental vehicles. Random locks only apply to ambient NPC vehicles. ~80% lower idle CPU usage, instant key check on entry.",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
