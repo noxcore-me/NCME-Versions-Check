@@ -1,5 +1,5 @@
 {
     "version": "3.6.0",
-    "changelog": "Company desk system ported from nc-logistics: NPC dialog with scripted camera, MDT boss-management panel (funds/commission/hire/fire/grades incl. offline staff), garage shop panel with vehicle item cards + images and optional per-vehicle rental fee (cash/bank), nc-vehiclekeys support. All existing data (company funds, stats) is preserved.",
+    "changelog": "Company desk NPCs now handle duty and management through a dialog panel. Manage company funds, commission, employees and grades from the new panel. Garage shows vehicle cards with images, rank locks and an optional rental fee (flat or per-vehicle, cash/bank). Custom vehicle images via interface/vehicleimage/. nc-vehiclekeys support. All existing company data is kept.",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
