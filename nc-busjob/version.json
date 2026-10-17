@@ -1,5 +1,5 @@
 {
-    "version": "1.6.01",
-    "changelog": "Fixed: with Config.JobRequired = false the onboard terminal never appeared and routes could not be started - the terminal hard-required an on-duty bus-company job that jobless mode can never satisfy. Also fixed companies with no Duty block never getting the terminal, and the depot 'Get a Bus' button being dead in jobless mode.",
+    "version": "1.6.02",
+    "changelog": "Added Config.Terminal.position ('right' default / 'left') - docks the onboard terminal to the left screen edge instead, keeping the same edge gap with the device tilt and zoom motion mirrored.",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
