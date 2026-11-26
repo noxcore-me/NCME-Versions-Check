@@ -1,0 +1,5 @@
+{
+    "version": "1.0.0",
+    "changelog": "First release. A vehicle rental system for QBCore, Qbox and ESX with a persistent fleet (fixed plates, saved fuel, mileage and condition), rentals by the hour, day or week with extensions and early-return refunds, a 3D kiosk that draws the interface on its own display with card and cash payment animations, an itemized return settlement (deposit, late fees, damage, fuel, distance fee) with debt for unpaid charges, an optional protection plan, driving license requirements, free-distance notifications, reservations for the next user, player-owned locations with a vault, price management and vehicle purchases, vehicle search, sorting and specs, and optional rental papers items. Keys, fuel, target, inventory, license and notification adapters are plain files in customize/bridge, and every text can be translated in customize/locales.",
+    "download": "https://portal.cfx.re/assets/granted-assets"
+}
