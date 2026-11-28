@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "changelog": "Initial release: shaped minimap, status and info panels, weapon HUD and crosshair, vehicle HUDs for every vehicle type, custom pause menu with map legend, in-game interface settings, QBCore / QBox / ESX / OX Core support, 5 languages.",
+    "version": "1.0.1",
+    "changelog": "Added a Show HUD switch (Interface settings, /togglehud command and key binding) that hides the whole HUD. Fixed the HUD reappearing after closing the pause menu while hidden, the HUD staying hidden after a failed map / keybinds / game settings open, a stuck keybinds / game settings screen, a lingering mouse cursor when the resource is restarted with a menu open, and the community hub answering before all pages loaded. Update checks now go through noxcore.me.",
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
